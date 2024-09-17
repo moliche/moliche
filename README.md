@@ -1,8 +1,7 @@
 
 
-About Me
-🎓 Studying Computer Science with a minor in Data Science at the University of Colorado Boulder
-💻 Aspiring Software Engineer
+
+
 
 <!---
 moliche/moliche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +11,8 @@ You can click the Preview link to take a look at your changes.
 # 💫 About Me:
 • I'm a passionate college student from Caracas, Venezuela pursuing a Bachelors degree in Computer Science with a minor in Data Science. I've got big dreams of becoming a software engineer at Google, and this GitHub page is my journey towards that goal. Here, you'll find a collection of my projects, code snippets, and explorations in the world of programming.
 • I’m currently studying at CU Boulder <br>• I’m looking to collaborate on machine learning projects <br>   to improve my understanding on the subject.<br> •On my free time I enjoy playing sports, hiking and relaxing watching a show.
-
+🎓 Studying Computer Science with a minor in Data Science at the University of Colorado Boulder
+💻 Aspiring Software Engineer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rodrigo-moleiro-75527821b/) 
